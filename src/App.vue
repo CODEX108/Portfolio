@@ -9,6 +9,7 @@
   import SideProjects from './components/side-projects/SideProjects.vue';
   import Contact from './components/contact/Contact.vue';
   import Mouse from './components/mouse/Mouse.vue';
+  import Stats from './components/stats/Stats.vue';
 
   const loaded = ref(false);
   const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
@@ -29,6 +30,8 @@
   <Work ref="scrollRef" />
   <Marquee title="projects" emoji="." />
   <SideProjects />
+  <Marquee title="stats" emoji="." />
+  <Stats ref="scrollRef" />
   <Contact />
   <Mouse v-if="!isSafari" />
   <div id="grain-overlay"></div>
