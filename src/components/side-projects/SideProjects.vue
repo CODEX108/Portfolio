@@ -39,7 +39,7 @@ import SideProject from './SideProject.vue';
       title: 'RouteRover',
       type: 'Web App',
       href: 'https://github.com/RouteRover2024',
-      image_url: 'side-projects/routerover.jpeg',
+      image_url: 'side-projects/rr.jpeg',
       tags: [
         'React',
         'Gmaps',

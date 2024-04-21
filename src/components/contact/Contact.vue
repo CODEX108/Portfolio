@@ -63,7 +63,7 @@
         <h1 class="headline-col">
           I'd love to <div class="animated-contact-headline">hear from you.</div>
         </h1>
-        <button id="email" @click="copyEmail">chavandemanjiri@gamil.com <div>⧉</div></button>
+        <button id="email" @click="copyEmail">itsmanjiric@gmail.com <div>⧉</div></button>
         <div id="email-copy-success-message" :class="[copied ? 'copied' : '']">
           Copied email to clipboard 🙌
         </div>
