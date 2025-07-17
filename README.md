@@ -9,4 +9,4 @@ Models projected in app using Google's [ModelViewer](https://modelviewer.dev/).
 
 **License**
 [MIT](https://choosealicense.com/licenses/mit/)
-forked from: https://github.com/abjt14
+- forked from: https://github.com/abjt14
