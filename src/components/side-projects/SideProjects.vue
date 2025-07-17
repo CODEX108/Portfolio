@@ -25,7 +25,7 @@ import SideProject from './SideProject.vue';
     {
       title: 'MemoryBox',
       type: 'Web App',
-      href: 'https://github.com/CODEX108/MemoryBox',
+      href: 'https://github.com/CODEX108/TheMemoryBox',
       image_url: 'side-projects/memoryBox.png',
       tags: [
         'Next.js',
