@@ -23,6 +23,18 @@ import SideProject from './SideProject.vue';
       show: true,
     },
     {
+      title: 'MemoryBox',
+      type: 'Web App',
+      href: 'https://github.com/CODEX108/MemoryBox',
+      image_url: 'side-projects/memoryBox.png',
+      tags: [
+        'Next.js',
+        'NeonDB',
+        'Drizzle ORM'
+      ],
+      show: true,
+    },
+     {
       title: 'BlockSpirit',
       type: 'DApp',
       href: 'https://github.com/CODEX108/FINAL-BLOCKSPIRIT',
@@ -32,18 +44,6 @@ import SideProject from './SideProject.vue';
         'React',
         'Hardhat',
         'Ethers.js',
-      ],
-      show: true,
-    },
-    {
-      title: 'RouteRover',
-      type: 'Web App',
-      href: 'https://github.com/RouteRover2024',
-      image_url: 'side-projects/rr.jpeg',
-      tags: [
-        'React',
-        'Gmaps',
-        'JS'
       ],
       show: true,
     },
